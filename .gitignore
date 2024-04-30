@@ -1,0 +1,12 @@
+# Python 3 Virtual Environment
+venv/
+
+# Compiled source
+__pycache__/
+*.pyc
+
+# Setuptools distribution folder
+/dist/
+
+# Python egg metadata
+*.egg-info/
